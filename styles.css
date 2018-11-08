@@ -1,0 +1,26 @@
+.one {
+  padding-left: 10px;
+  padding-right: 15px;
+  border: solid;
+  background-color: yellow;
+}
+.two {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  border: solid;
+  background-color: green;
+}
+.three {
+margin-left: auto;
+margin-right: 5px;
+background-color: pink;
+font-family: serif;
+}
+.four {
+margin-left: 10px;
+margin-top: auto;
+margin-bottom: 5px;
+border: solid;
+color: red;
+}
